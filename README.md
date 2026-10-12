@@ -34,6 +34,12 @@ An experienced **Information Systems Manager** specializing in **SAP Security, I
 
 ---
 
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=va87git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=va87git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 * 🌍  I'm based in Milano, Italy
 * 🚀  I'm currently working on [ZSecTools](http://github.com/va87git/zsectools)
 
