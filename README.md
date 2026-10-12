@@ -27,6 +27,8 @@ An experienced **Information Systems Manager** specializing in **SAP Security, I
 - **SAP Ecosystem:** GRC Access Control, SAP IdM, SAP Security Auditing, ABAP Development.
 - **Software Engineering:** C#, VB / VBA, Java, and Data Analysis.
 
+---
+
 * 🌍  I'm based in Milano, Italy
 * 🚀  I'm currently working on [ZSecTools](http://github.com/va87git/zsectools)
 
