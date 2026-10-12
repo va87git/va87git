@@ -1,4 +1,34 @@
-## Hi there 👋
+Hi 👋 My name is Valerio Angeloni
+=================================
+
+SAP Security Manager | Project Manager & Team Leader
+----------------------------------------------------
+
+An experienced **Information Systems Manager** specializing in **SAP Security, Identity & Access Management (IAM), and GRC compliance**. Proven track record in leading teams, architecting robust authorization concepts, and driving complex SAP security projects to success. Beyond my SAP core expertise, I have a strong background in software development and data analysis.
+
+---
+
+### 🛠️ Core Expertise
+
+- **SAP GRC & Compliance:** Certified in Access Control, SoD (Segregation of Duties) Remediation & Mitigation, and GDPR Compliance suites (e.g., RAL, Information Steward).
+- **SAP Security Architecture:** Designing, building, and auditing secure SAP authorization structures and SAP IdM systems.
+- **Project Leadership:** Team Leader and Project Manager experienced in cross-functional coordination, IAM implementations, and IT auditing.
+
+---
+
+### 💻 Technologies & Languages
+
+![SAP](https://shields.io)
+![C#](https://shields.io)
+![Java](https://shields.io)
+![ABAP](https://shields.io)
+
+
+- **SAP Ecosystem:** GRC Access Control, SAP IdM, SAP Security Auditing, ABAP Development.
+- **Software Engineering:** C#, VB / VBA, Java, and Data Analysis.
+
+* 🌍  I'm based in Milano, Italy
+* 🚀  I'm currently working on [ZSecTools](http://github.com/va87git/zsectools)
 
 <!--
 **va87git/va87git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
