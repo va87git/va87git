@@ -18,10 +18,11 @@ An experienced **Information Systems Manager** specializing in **SAP Security, I
 
 ### 💻 Technologies & Languages
 
-![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-008FD3?logo=sap&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-008FD3?logo=sap&logoColor=white)
+![.NET](https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=white)
 
 
 - **SAP Ecosystem:** GRC Access Control, SAP IdM, SAP Security Auditing, ABAP Development.
